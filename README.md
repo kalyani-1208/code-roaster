@@ -24,7 +24,7 @@ Before starting, ensure you have:
 ### Step 1: Install Antigravity 2.0 IDE & Get Google Stitch API Key
 
 1. **Install Google Antigravity IDE**:
-   - Download and set up the **Google Antigravity 2.0** IDE.
+   - Download and set up the **Google Antigravity 2.0** IDE. 2.0
    - Launch Antigravity and open an empty folder or your project workspace.
 
 2. **Generate a Google Stitch API Key**:
